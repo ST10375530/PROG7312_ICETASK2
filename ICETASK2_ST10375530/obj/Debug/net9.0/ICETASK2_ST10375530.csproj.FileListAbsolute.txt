@@ -1,0 +1,28 @@
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.exe
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.deps.json
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.runtimeconfig.json
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.dll
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.pdb
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.AssemblyInfoInputs.cache
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.AssemblyInfo.cs
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.csproj.CoreCompileInputs.cache
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.dll
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\refint\ICETASK2_ST10375530.dll
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.pdb
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.genruntimeconfig.cache
+C:\Users\Ayana Modise\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ref\ICETASK2_ST10375530.dll
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.exe
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.deps.json
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.dll
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\bin\Debug\net9.0\ICETASK2_ST10375530.pdb
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.dll
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\refint\ICETASK2_ST10375530.dll
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.pdb
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ICETASK2_ST10375530.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive\Music\PROG7312-  Ice Task 2\ICETASK2_ST10375530\ICETASK2_ST10375530\obj\Debug\net9.0\ref\ICETASK2_ST10375530.dll
